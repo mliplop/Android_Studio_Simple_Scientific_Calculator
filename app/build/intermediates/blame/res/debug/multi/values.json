@@ -1,0 +1,410 @@
+[
+    {
+        "outputFile": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 3,
+                        "startOffset": 468,
+                        "endColumn": 40,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 39,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 3,
+                        "startOffset": 218,
+                        "endColumn": 38,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 40,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 3,
+                        "startOffset": 257,
+                        "endColumn": 39,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 42,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 550,
+                        "endColumn": 41,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 43,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 3,
+                        "startOffset": 716,
+                        "endColumn": 42,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 43,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 3,
+                        "startOffset": 799,
+                        "endColumn": 42,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 42,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 3,
+                        "startOffset": 633,
+                        "endColumn": 41,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 42,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 3,
+                        "startOffset": 882,
+                        "endColumn": 41,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 42,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 3,
+                        "startOffset": 962,
+                        "endColumn": 41,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 40,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 3,
+                        "startOffset": 297,
+                        "endColumn": 39,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 41,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 3,
+                        "startOffset": 136,
+                        "endColumn": 40,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 41,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 3,
+                        "startOffset": 177,
+                        "endColumn": 40,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 40,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 3,
+                        "startOffset": 337,
+                        "endColumn": 39,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 40,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 428,
+                        "endColumn": 39,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 41,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 54,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 41,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 3,
+                        "startOffset": 95,
+                        "endColumn": 40,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 53,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 52,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 50,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 50,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

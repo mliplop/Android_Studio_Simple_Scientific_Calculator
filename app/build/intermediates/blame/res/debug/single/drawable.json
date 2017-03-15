@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/res/merged/debug/drawable/custombutton.xml",
+        "source": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/drawable/custombutton.xml"
+    },
+    {
+        "merged": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/res/merged/debug/drawable/custombutton2.xml",
+        "source": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/drawable/custombutton2.xml"
+    },
+    {
+        "merged": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/res/merged/debug/drawable/custombutton3.xml",
+        "source": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/drawable/custombutton3.xml"
+    }
+]

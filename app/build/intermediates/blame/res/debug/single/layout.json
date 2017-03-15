@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/res/merged/debug/layout/activity_calculator.xml",
+        "source": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/layout/activity_calculator.xml"
+    },
+    {
+        "merged": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/build/intermediates/res/merged/debug/layout/calculator.xml",
+        "source": "/home/dhaya/AndroidStudioProjects/Simple-Android-Calculator-master/app/src/main/res/layout/calculator.xml"
+    }
+]
